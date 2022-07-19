@@ -1,4 +1,4 @@
-#assign variables of polygon and table from Find Identical tool output
+
 my_shp = 'test_poly.shp'
 my_tbl = 'test_poly_FindIdentical1.dbf'
 
